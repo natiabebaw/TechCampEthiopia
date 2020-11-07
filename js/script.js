@@ -521,6 +521,54 @@
 	
 		});
 	}
+
+	// Scroll to a Tech Camp (programs) section
+	if($('.scroll-to-programs').length){
+		$(".scroll-to-programs").on('click', function() {
+			var target = $(this).attr('data-target');
+		   // animate
+		   $('html, body').animate({
+			   scrollTop: $(target).offset().top
+			 }, 1500);
+	
+		});
+	}
+
+	// Scroll to a Partners section
+	if($('.scroll-to-partners').length){
+		$(".scroll-to-partners").on('click', function() {
+			var target = $(this).attr('data-target');
+		   // animate
+		   $('html, body').animate({
+			   scrollTop: $(target).offset().top
+			 }, 1500);
+	
+		});
+	}
+
+	// Scroll to a Schedules section
+	if($('.scroll-to-schedules').length){
+		$(".scroll-to-schedules").on('click', function() {
+			var target = $(this).attr('data-target');
+		   // animate
+		   $('html, body').animate({
+			   scrollTop: $(target).offset().top
+			 }, 1500);
+	
+		});
+	}
+
+	// Scroll to a About Us section
+	if($('.scroll-to-about').length){
+		$(".scroll-to-about").on('click', function() {
+			var target = $(this).attr('data-target');
+		   // animate
+		   $('html, body').animate({
+			   scrollTop: $(target).offset().top
+			 }, 1500);
+	
+		});
+	}
 	
 	
 	// Elements Animation
