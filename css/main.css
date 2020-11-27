@@ -82,6 +82,12 @@
 
  ***/
 
+@media only screen and (max-width: 480px) {
+	body {
+		background-color: red;
+	}
+}
+
 body {
 	font-family: 'Poppins', sans-serif;
 	font-size: 14px;
@@ -2469,6 +2475,11 @@ img {
 
 .cource-block .inner-box .lower-content {
 	position: relative;
+	padding: 25px 30px;
+}
+
+.cource-block .inner-box .lower-contentt {
+	position: absloute;
 	padding: 25px 30px;
 }
 
