@@ -370,7 +370,7 @@ img {
 	height: 100%;
 	width: 100%;
 	content: "";
-	background-color: #075e89;
+	background-color: #122868;
 	-webkit-transform: scale(0, 1);
 	-ms-transform: scale(0, 1);
 	transform: scale(0, 1);
@@ -6105,7 +6105,7 @@ img {
 	position: relative;
 	text-align: center;
 	padding: 220px 0px 0px;
-	background-color: #075e89;
+	background-color: #122868;
 }
 
 .page-title.style-two {
@@ -6760,7 +6760,7 @@ img {
 	position: relative;
 	display: inline-block;
 	border-radius: 20px;
-	background-color: #075e89;
+	background-color: #122868;
 }
 
 .time-counter .time-countdown .counter-column {
@@ -8997,7 +8997,7 @@ img {
 }
 
 .book-block .overlay-inner .link:hover {
-	background-color: #075e89;
+	background-color: #122868;
 	color: #ffffff;
 }
 
@@ -9954,7 +9954,7 @@ img {
 }
 
 .ui-menu-item:hover {
-	background-color: #075e89;
+	background-color: #122868;
 }
 
 .profile-form .form-group .ui-button .ui-icon {
