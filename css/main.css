@@ -2798,7 +2798,7 @@ img {
 	position: relative;
 	width: 80px;
 	height: 80px;
-	color: #f51e70;
+	color: #b30d14;
 	font-size: 24px;
 	text-align: center;
 	border-radius: 50px;
@@ -2810,6 +2810,10 @@ img {
 	-ms-transition: all 0.3s ease;
 	-o-transition: all 0.3s ease;
 	background-color: #ffffff;
+}
+
+.video-section .video-box:hover {
+	color: #1e2c52;
 }
 
 .video-section .video-box .overlay-box span {
