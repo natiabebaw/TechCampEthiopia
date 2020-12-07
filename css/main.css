@@ -976,7 +976,7 @@ img {
 	.scroll-to-tech-camp {
 		position: relative;
 		display: block;
-		color: #ffffff;
+		color: #1e2b53;
 		font-size: 16px;
 		line-height: 29px;
 		letter-spacing: 1px;
@@ -993,7 +993,7 @@ img {
 	.scroll-to-our-partners {
 		position: relative;
 		display: block;
-		color: #ffffff;
+		color: #1e2b53;
 		font-size: 16px;
 		line-height: 29px;
 		letter-spacing: 1px;
@@ -1010,7 +1010,7 @@ img {
 	.scroll-to-camp-schedules {
 		position: relative;
 		display: block;
-		color: #ffffff;
+		color: #1e2b53;
 		font-size: 16px;
 		line-height: 29px;
 		letter-spacing: 1px;
@@ -1027,7 +1027,7 @@ img {
 	.scroll-to-about-us {
 		position: relative;
 		display: block;
-		color: #ffffff;
+		color: #1e2b53;
 		font-size: 16px;
 		line-height: 29px;
 		letter-spacing: 1px;
@@ -1307,6 +1307,7 @@ img {
 .main-header .header-upper {
 	position: relative;
 	z-index: 1;
+	background-color: #fff;
 }
 
 .header-style-two .main-menu .navigation>li>a {
@@ -1397,7 +1398,7 @@ img {
 }
 
 .header-style-two.fixed-header .header-upper {
-	background-color: #ffffff !important;
+	background-color: #000 !important;
 }
 
 .header-style-two.fixed-header .header-upper .outer-box .login-nav li:first-child a, .header-style-two.fixed-header .main-menu .navigation>li>a {
@@ -1898,8 +1899,12 @@ main-menu .navbar-collapse>ul li {
 	right: 0px;
 	top: 0px;
 	padding: 0px;
-	background-color: rgba(39, 50, 90, 0.9);
+	background-color: rgba(255, 255, 255, 1);
 	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.12);
+}
+
+.main-header.fixed-header .header-upper>ul li {
+	color: #000 !important;
 }
 
 .main-header.fixed-header .header-upper .logo-box {
@@ -2058,7 +2063,7 @@ main-menu .navbar-collapse>ul li {
 	font-size: 40px;
 	line-height: 50px;
 	cursor: pointer;
-	color: #ffffff;
+	color: #000;
 	display: none;
 }
 

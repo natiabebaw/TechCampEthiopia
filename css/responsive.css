@@ -165,7 +165,7 @@
 	}
 	.main-header {
 		position: relative;
-		background-color: #222222;
+		background-color: #fff;
 	}
 	.main-header .header-upper .outer-box {
 		margin-left: 0px;
@@ -643,7 +643,7 @@
 		padding: 12px 0px;
 		margin-left: 20px;
 		font-size: 32px;
-		color: #ffffff;
+		color: 000;
 	}
 	#navbarSupportedContent {
 		display: block;
